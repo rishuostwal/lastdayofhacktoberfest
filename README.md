@@ -1,8 +1,1 @@
-# LastDayOf Hacktoberfest
-
-Didn't reach the 5 PR mark? Go ahead! :+1: :two_hearts:
-=======
-This repo is for last day commits for hacktoberfest
-
-## [French version here](./README.FR.md)
-## [Thai version here](./README.TH.md)
+இது Hacktoerfest இன் கடைசி நாளன்று ரெபோ ஆகும், அதனால் உங்கள் சவால்களை முடிக்கலாம். சந்தோஷமாக ஹார்பர்ஃபெர்பெஸ்ட் :-)
